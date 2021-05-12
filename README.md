@@ -165,7 +165,8 @@ Same as standard Chess with changes
 	in any direction around the target piece.
 	
 	You may spend [(8) - (Number of pieces adjacent)] each of LP and SP to attempt a Soul Steal. This will 
-	capture the piece and place it into your Soul Gem regardless of attack power enemy piece value other than the King. 
+	capture the piece and place it into your Soul Gem regardless of attack power or 
+	enemy piece value other than the King. 
 	
 	Roll (2) 10-sided dies to determine percentage, the first denoting the 100s/10s place and the second denoting the 1s
 	
