@@ -1,4 +1,4 @@
-	SOUL GEMS v.0.3 2021-05-11Tue
+	SOUL GEMS v.0.3 2021-05-12Wed 
 	Created by Rebecca Loran 2021-05-10Mon
 	twitch.tv/rebeccaloran
 
