@@ -191,6 +191,8 @@ is at stake.
 	pieces contained within the player's Soul Gem is
 	added together and multiplied by two. This is then
 	added to the player's current Soul Points
+	
+	No Soul Points are gained during each player's first move.
 
 	Soul Gems may be broken. During a player's Upkeep
 	they may spend [(your total captured piece value) - (your captures) + (20)] points from either pool to attempt
