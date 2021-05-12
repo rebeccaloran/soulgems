@@ -200,9 +200,9 @@ is at stake.
 	(6) is added to a total counter. When that counter reaches
 	(5) then that player has successfully broken their opponent's Gem. 
 	
-	The player can no longer summon or gain SP until it is repaired
-     
-        All of the pieces your opponent has captured are returned to your Soul Gem
+	The player can no longer summon or gain SP until it is repaired.
+	
+	All of the pieces your opponent has captured are returned to your Soul Gem
 
 	Soul Gems may be repaired. Repair costs (10) LP during Upkeep
 	but the roll requirement is (3) counters of either a (1) or (2)
