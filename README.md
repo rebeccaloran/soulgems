@@ -244,7 +244,17 @@ Same as standard Chess with changes
 		
 		= 28 Points
 
-	Capturing a piece adds [5(piece)] to your LP
+	Capturing a piece adds [5(piece)] to your SP
+	
+	In order to succesfully inflict damage, you must roll for accuracy
+	
+	Roll two 10-seded die.
+	
+	A Roll of (10) on the first roll is counted as a hit
+	
+	Any result including and lower than [20 + [10(attacking piece value) - 10(enemy piece value)]] counts as a hit
+	
+	
 
 
 ### The King is a direct link to the Soul Guardian, a God. 
