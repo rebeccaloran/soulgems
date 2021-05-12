@@ -119,8 +119,8 @@ Same as standard Chess with changes
 	and in any combination between them.
 
 	If after Upkeep the player takes no actions, they may pass and receive 
-	[(piece value of your army on board) - (pieces value of captured army in enemy soul gem) + (piece value of enemy army captured)] LP 
-	capping at a minimum of (10)
+	[(piece value of your army on board) - (pieces value of captured army in enemy soul gem) + (piece value of enemy army captured)]
+	LP capping at a minimum of (10)
 
 	A Player may freely pass to the next phase after any action is taken during any
 	phase, but any damage that hasn't resulted in capturing a piece
