@@ -1,6 +1,6 @@
-SOUL GEMS v.0.3 2021-05-11Tue
-Created by Rebecca Loran 2021-05-10Mon
-twitch.tv/rebeccaloran
+	SOUL GEMS v.0.3 2021-05-11Tue
+	Created by Rebecca Loran 2021-05-10Mon
+	twitch.tv/rebeccaloran
 
 # Storyline
 
