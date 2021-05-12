@@ -207,9 +207,11 @@ Same as standard Chess with changes
 	
 	Failing a Soul Steal on your own piece prevents that piece from moving or attacking for the remainder of the turn.
 
-### Summon removes one of your own pieces from your Soul Gem and places 
-### it on its starting square. Either starting square counts but it must
-### unoccupied. This costs [(piece) + (5)]
+### Summoning
+
+	Summon removes one of your own pieces from your Soul Gem and places 
+	it on its starting square. Either starting square counts but it must
+	unoccupied. This costs [(piece) + (5)]
 
 	Can only be used during Upkeep
 
@@ -252,10 +254,6 @@ Same as standard Chess with changes
 
 	Knights can move any number of times to empty squares.
 	The Knight costs (3) per jump.
-
-# Capturing
-
-
 
 ### The King is a direct link to the Soul Guardian, a God. 
 
