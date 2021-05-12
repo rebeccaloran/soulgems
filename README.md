@@ -26,8 +26,8 @@ Same as standard Chess with changes
 	This shouldn't be achievable anyway,
 	as will be explained in the rules.
 
-	 The game ends when the King is captured
- 	 or if either player reaches 1000 Life Points.
+	The game ends when the King is captured
+ 	or if either player reaches 1000 Life Points.
 
 # Equipment
 	
@@ -40,7 +40,7 @@ Same as standard Chess with changes
 	An area or areas to store pieces(This is your Soul Gem)
 
 	Future versions may implement another area
-	   similar to the Soul Gem known as The Crypt
+	similar to the Soul Gem known as The Crypt
 	   
 	Future versions may implement Ability Cards
 	that can be obtained throughout the game under
