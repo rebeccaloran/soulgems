@@ -161,7 +161,8 @@ Same as standard Chess with changes
 
 ### Soul Steal
 
-	Soul Steal can be used during the first Main Phase only when any of your pieces are directly adjactent one space in any direction around an opponent's.
+	Soul Steal can be used during the first Main Phase only when any of your pieces are directly adjactent one space
+	in any direction around the target piece.
 	
 	You may spend [(8) - (Number of pieces adjacent)] each of LP and SP to attempt a Soul Steal. This will 
 	capture the piece and place it into your Soul Gem regardless of attack power enemy piece value other than the King. 
