@@ -12,6 +12,11 @@ energy emitted by lost souls. Every Guardian
 must battle each other, for their very life
 is at stake.
 
+### The King is a direct link to the Soul Guardian, a God. 
+
+	A King can only be defeated by converting it to a new Soul Gem. 
+	
+	This takes inflicting a total of (20) damage
 
 Same as standard Chess with changes
 
@@ -89,7 +94,7 @@ Same as standard Chess with changes
 
 # Game End
 
-	Defeat the enemy King and successfully roll a (6)
+	Defeat the enemy King
 
 ### or
 
@@ -124,6 +129,20 @@ Same as standard Chess with changes
 	phase, but any damage that hasn't resulted in capturing a piece
 	will be reset. No points are gained this way and points are not refunded.
 	
+	
+# Movement
+
+### Movement can only be done during Main Phase 1 or 2
+
+	Movement and capturing happen separately
+
+	The cost to move a piece is [(piece) + (distance)]
+
+	(distance) can only be a maximum of the pieces' traditional
+	legal move distance.
+
+	Knights can move any number of times to empty squares.
+	The Knight costs (3) per jump.
 
 # Attacking and Capturing
 
@@ -241,32 +260,6 @@ Same as standard Chess with changes
 	
 	A new pawn is added to your Soul Gem
 
-# Movement
-
-### Movement can only be done during Main Phase 1 or 2
-
-	Movement and capturing happen separately
-
-	The cost to move a piece is [(piece) + (distance)]
-
-	(distance) can only be a maximum of the pieces' traditional
-	legal move distance.
-
-	Knights can move any number of times to empty squares.
-	The Knight costs (3) per jump.
-
-### The King is a direct link to the Soul Guardian, a God. 
-
-	A King can only be defeated by converting it to a new Soul Gem. 
-	
-	This takes inflicting a total of (20) damage
-	
-	Roll (2) 10-sided dice
-	
-	A (10) on the first die counts as a success
-	
-	You need to have a result under and including [10(number of pieces adjacent)] with a max of (8)
-	
 I hope you enjoy this game. If you want to watch me alpha test this game with my friend mbkplayer, you can watch me live maybe once a week at twitch.tv/rebeccaloran
 
 
