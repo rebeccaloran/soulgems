@@ -79,8 +79,6 @@ Same as standard Chess with changes
 
 ## Attacking 
 
-	Future versions may add attack mechanics and Battle Abilities
-
 ## Main Phase 2
 
 	Teleport
@@ -125,6 +123,33 @@ Same as standard Chess with changes
 	A Player may freely pass to the next phase after any action is taken during any
 	phase, but any damage that hasn't resulted in capturing a piece
 	will be reset. No points are gained this way and points are not refunded.
+	
+
+# Attacking and Capturing
+
+	Capturing a piece requires at least one piece that can target
+   	an enemy piece. In order to capture it you must deal a total 
+   	amount of damage equal to the piece and there are accuracy rolls of 2 10-sided dice
+
+	Attacking costs [2(piece) + (distance)]
+
+	For example, attacking a Queen on d7 with a Rook on d1, a Knight
+	on e5, and a Pawn on e6 would cost: 
+	[2(5) + (6)] + [2(3) + (3)] + [2(1) + (1)]
+		
+		= [16] + [9] + [3]
+		
+		= 28 Points
+
+	Capturing a piece adds [5(captured piece)] to your SP
+	
+	In order to succesfully inflict damage, you must roll for accuracy
+	
+	Roll two 10-seded die.
+	
+	A Roll of (10) on the first roll is counted as a hit
+
+	Any result including and lower than [20 + [10(attacking piece value) - 10(enemy piece value)]] counts as a hit	
 
 # Soul Gems
 
@@ -230,31 +255,6 @@ Same as standard Chess with changes
 
 # Capturing
 
-### Capturing a piece requires at least one piece that can target
-   an enemy piece. In order to capture it you must deal a total 
-   amount of damage equal to the piece and there are accuracy rolls of 2 10-sided dice
-
-	Attacking costs [2(piece) + (distance)]
-
-	For example, attacking a Queen on d7 with a Rook on d1, a Knight
-	on e5, and a Pawn on e6 would cost: 
-	[2(5) + (6)] + [2(3) + (3)] + [2(1) + (1)]
-		
-		= [16] + [9] + [3]
-		
-		= 28 Points
-
-	Capturing a piece adds [5(piece)] to your SP
-	
-	In order to succesfully inflict damage, you must roll for accuracy
-	
-	Roll two 10-seded die.
-	
-	A Roll of (10) on the first roll is counted as a hit
-	
-	Any result including and lower than [20 + [10(attacking piece value) - 10(enemy piece value)]] counts as a hit
-	
-	
 
 
 ### The King is a direct link to the Soul Guardian, a God. 
@@ -268,9 +268,6 @@ Same as standard Chess with changes
 	A (10) on the first die counts as a success
 	
 	You need to have a result under and including [10(number of pieces adjacent)] with a max of (8)
-	
-	
-	
 	
 I hope you enjoy this game. If you want to watch me alpha test this game with my friend mbkplayer, you can watch me live maybe once a week at twitch.tv/rebeccaloran
 
