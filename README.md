@@ -12,13 +12,8 @@ energy emitted by lost souls. Every Guardian
 must battle each other, for their very life
 is at stake.
 
-### The King is a direct link to the Soul Guardian, a God. 
 
-	A King can only be defeated by converting it to a new Soul Gem. 
-	
-	This takes inflicting a total of (20) damage
-
-Same as standard Chess with changes
+# Same as standard Chess with changes
 
 ## There is no checking the King
 
@@ -99,6 +94,8 @@ Same as standard Chess with changes
 ### or
 
 	Reach 1000 LP
+	
+	This is kind of a joke rule. You may attempt this, of course. Good luck!
 
 
 # Rules
@@ -169,6 +166,22 @@ Same as standard Chess with changes
 	A Roll of (10) on the first roll is counted as a hit
 
 	Any result including and lower than [20 + [10(attacking piece value) - 10(enemy piece value)]] counts as a hit	
+	
+### The King is a direct link to the Soul Guardian, a God. 
+
+	A King can only be defeated by converting it to a new Soul Gem. 
+	
+	This takes inflicting a total of (20) damage
+
+	In order to succesfully inflict damage to the King, you must roll for accuracy
+	
+	The accuracy formula for the King are different
+	
+	Roll two 10-seded die.
+	
+	A Roll of (10) on the first roll must be rerolled
+
+	Any result including and lower than [10(attacking piece value)] counts as a hit		
 
 # Soul Gems
 
