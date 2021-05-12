@@ -175,7 +175,7 @@ is at stake.
 
 	In order to succesfully inflict damage to the King, you must roll for accuracy
 	
-	The accuracy formula for the King are different
+	The accuracy formula for the King is different
 	
 	Roll two 10-seded die.
 	
