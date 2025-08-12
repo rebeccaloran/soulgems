@@ -200,7 +200,7 @@ Relic Spells add a powerful and strategic layer to Soul Gems. They are drafted b
 ## Example Game: Full Turn Walkthrough with Relic Spells Draft
 
 ### Pre-Game Setup
-- Both players set up the board in standard chess layout.
+- Both players set up the board in standard chess layout(white on right)
 - Players shuffle the Relic Spells deck (combining both Permanent Relics and Instant Spells).
 - Each player draws **5 Relic Spell cards**.
 - Player A chooses **Soul Ward** (Permanent Relic), **Temporal Rift** (Instant Spell), and **Soul Drain** (Instant Spell).
