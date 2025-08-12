@@ -195,3 +195,39 @@ Relic Spells add a powerful and strategic layer to Soul Gems. They are drafted b
 - **Double Draft** — Players draw 8 cards and keep 4, returning the others to the deck.
 
 ---
+
+
+## Example Game: Full Turn Walkthrough with Relic Spells Draft
+
+### Pre-Game Setup
+- Both players set up the board in standard chess layout.
+- Players shuffle the Relic Spells deck (combining both Permanent Relics and Instant Spells).
+- Each player draws **5 Relic Spell cards**.
+- Player A chooses **Soul Ward** (Permanent Relic), **Temporal Rift** (Instant Spell), and **Soul Drain** (Instant Spell).
+- Player B chooses **Mirror Barrier** (Permanent Relic), **Arcane Surge** (Instant Spell), and **Spirit Exchange** (Instant Spell).
+- The remaining cards are shuffled back into the deck.
+- Players keep their chosen cards hidden in hand unless they are Permanent Relics in play.
+
+### Turn 1: Player A
+- **Upkeep Phase**: No effects yet.
+- **Main Phase**: Player A deploys Soul Ward (Permanent Relic), protecting their King with -2 damage reduction.
+- **Movement Phase**: Moves a pawn forward two spaces.
+- **Battle Phase**: No attacks possible this early.
+- **End Phase**: Pass turn.
+
+### Turn 1: Player B
+- **Upkeep Phase**: No effects yet.
+- **Main Phase**: Player B keeps all Relics in hand for later strategic use.
+- **Movement Phase**: Moves a knight into a forward position.
+- **Battle Phase**: No valid attacks yet.
+- **End Phase**: Pass turn.
+
+### Mid-Game Interaction
+- On Turn 5, Player B moves a rook into range of Player A’s bishop and plays **Arcane Surge** to increase damage output for one attack.
+- Player A responds by playing **Temporal Rift**, taking an extra Movement Phase to reposition their bishop out of range before the attack resolves.
+
+### Late Game
+- Player A uses **Soul Drain** to steal SP from Player B, then spends those SP on a high-cost coordinated attack to capture Player B’s queen.
+- Permanent Relics remain in play to the end, shaping both offensive and defensive tactics.
+
+---
