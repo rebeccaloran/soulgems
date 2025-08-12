@@ -1,4 +1,4 @@
-# Soul Gems— Permanent Enchantments Edition
+# Soul Gems
 
 ## Overview
 Soul Gems is an advanced, Warhammer-style strategy game based on chess mechanics with layered combat, resource management, and a Dominion-style draft system. The twist: once you claim a **Permanent Enchantment** ability card, it’s yours alone for the rest of the game — no one else can have it.
