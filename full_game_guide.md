@@ -151,3 +151,47 @@ Win = enemy King takes 20 damage (or reach 1000 LP)
 # Turn Tracker (Photocopy This Page)
 
 Design & Rules © Rebecca Loran. This guide was written to make Soul Gems accessible without sacrificing its depth. Stream your campaigns, write your legends, and send feedback.
+
+## Relic Spells Drafting Rules (v0.5)
+
+Relic Spells add a powerful and strategic layer to Soul Gems. They are drafted before the game begins and can be used at specific times during play. Relic Spells fall into two main categories:
+
+- **Permanent Relics** — These are placed in front of you after being played and remain active for the rest of the game, continuously affecting gameplay.
+- **Instant Spells** — These are one-time effects, played instantly when conditions are met or during an allowed phase, then discarded.
+
+### Drafting Procedure
+
+1. **Setup the Relic Spell Deck**  
+   Shuffle all Relic Spell cards together into a single deck.
+
+2. **Initial Draft**  
+   At the start of the game, before placing Kings, each player draws **5 Relic Spell cards** from the deck.
+
+3. **Selection**  
+   From these 5, each player chooses **3 cards** to keep. The other 2 are returned to the deck and reshuffled.
+
+4. **Secrecy**  
+   Players may keep their chosen Relic Spells hidden until they are played.
+
+5. **Hand Limit**  
+   Players may hold a maximum of **3 Relic Spells** in their hand at any given time. If a player would gain another, they must immediately discard one.
+
+### Playing Relic Spells
+
+- Instant Spells are played **during the phase specified** on the card (e.g., Upkeep, Main Phase, Battle Phase, End Phase).
+- Permanent Relics are played during your Main Phase unless otherwise stated. Place them in your Relic Zone where both players can see them.
+- Some cards may have SP (Soul Points) or LP (Life Points) costs; these must be paid before playing the card.
+- Relic Spells **cannot** be used to directly capture the King, but they may indirectly affect conditions for capture.
+
+### Example Relic Spell Uses
+
+- **Soul Ward** *(Permanent Relic)*: Reduces all incoming damage to your King by 2.  
+- **Temporal Rift** *(Instant Spell)*: Immediately take an extra Movement Phase after this one.  
+- **Soul Drain** *(Instant Spell)*: Steal 5 SP from your opponent’s Soul Gem total.
+
+### Optional Draft Variants
+
+- **Open Draft** — Players draft with all cards visible, adding a layer of mind games.
+- **Double Draft** — Players draw 8 cards and keep 4, returning the others to the deck.
+
+---
