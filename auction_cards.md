@@ -74,8 +74,7 @@ These cards are meant to cause laughter, chaos, or mild annoyance. They range fr
 
 ## Deck Setup
 - Shuffle all Auction House cards together or keep them in four separate stacks by category.
-- Reveal **one card** at each Auction House phase before bidding begins.
-- Once drawn, a card is removed from the game unless specified otherwise.
-- Optional: Keep Joke Cards in their own mini-pile and replace them into the deck after play for recurring silliness.
+- Reveal **one card** face down at each Auction House phase before bidding begins.
+- Once used, a card is removed from the game unless specified otherwise.
 
 ---
