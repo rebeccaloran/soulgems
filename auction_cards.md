@@ -79,10 +79,3 @@ These cards are meant to cause laughter, chaos, or mild annoyance. They range fr
 - Optional: Keep Joke Cards in their own mini-pile and replace them into the deck after play for recurring silliness.
 
 ---
-
-## Recommended Card Back Colors
-To make the deck visually distinct:
-- **Relics** – Gold backs.
-- **Terrain/NPC Contracts** – Green backs.
-- **Wildcard Spells** – Purple backs.
-- **Joke Cards** – Orange backs with a cartoon “?” icon.
